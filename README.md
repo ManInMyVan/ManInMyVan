@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center", style="color:#923de1;">
          Meteor is a good client
 </p>
 
