@@ -5,3 +5,5 @@ src="https://meteorclient.com/icon.png">
          <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
          </p>
          <p align="center">I do stupid things</p>
+
+![Metrics](https://github-readme-stats.vercel.app/api?username=ManInMyVan&show_icons=true&theme=tokyonight)
