@@ -10,4 +10,4 @@ src="https://grim.ac/images/grim.png">
          </p>
          <p align="center">I do stupid things</p>
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=ManInMyVan&show_icons=true&theme=tokyonight)
+![Metrics](https://github-readme-stats.vercel.app/api?username=ManInMyVan&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
