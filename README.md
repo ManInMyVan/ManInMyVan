@@ -8,7 +8,7 @@ src="https://grim.ac/images/grim.png">
          <br>
          <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
          </p>
-         <p align="center">I do stupid things</p>
+         <p align="center">I make stupid things</p>
 <p align="center"><img width="391" src="https://github-readme-stats.vercel.app/api?username=ManInMyVan&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true"></p>
 
 some cool things I found:\
