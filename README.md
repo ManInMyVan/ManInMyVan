@@ -12,4 +12,6 @@ src="https://grim.ac/images/grim.png">
 <p align="center"><img width="391" src="https://github-readme-stats.vercel.app/api?username=ManInMyVan&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true"></p>
 
 some cool things I found:\
-[howoldisminecraft189.today](https://howoldisminecraft189.today/)
+- How old is x version today?
+ - [1.8.9](https://howoldisminecraft189.today/)
+ - [1.12.2](https://howoldisminecraft1122.today/)
