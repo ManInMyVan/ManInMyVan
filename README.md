@@ -13,5 +13,6 @@ src="https://grim.ac/images/grim.png">
 
 some cool things I found:\
 - How old is x version today?
+  - [1.7.10](https://howoldisminecraft1710.today/)
   - [1.8.9](https://howoldisminecraft189.today/)
   - [1.12.2](https://howoldisminecraft1122.today/)
