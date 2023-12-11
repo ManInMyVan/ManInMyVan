@@ -17,3 +17,4 @@ some cool things I found:
   - [1.8.9](https://howoldisminecraft189.today/)
   - [1.8.8](https://howoldisminecraft188.today/)
   - [1.12.2](https://howoldisminecraft1122.today/)
+ - [Enchant Order](https://iamcal.github.io/enchant-order/)
