@@ -3,7 +3,7 @@
     >
     <img width="391" src= "https://github-readme-stats.vercel.app/api?username=ManInMyVan&show_icons=true&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true"
     >
-    <img width="391" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ManInMyVan&layout=compact&theme=transparent&hide_border=true"
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ManInMyVan&layout=compact&theme=transparent&hide_border=true"
     >
 </div>
 
