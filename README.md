@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="391" src= "https://github-readme-stats.vercel.app/api?username=ManInMyVan&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent">
+    <img width="391" src= "https://github-readme-stats.vercel.app/api?username=ManInMyVan&show=reviews,prs_merged&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent">
     <img width="391" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManInMyVan&layout=compact&theme=transparent&hide_border=true">
 </div>
 
