@@ -8,5 +8,6 @@ some cool things I found:
   - [1.7.10](https://howoldisminecraft.today/1.7.10)
   - [1.8.9](https://howoldisminecraft.today/1.8.9)
   - [1.12.2](https://howoldisminecraft.today/1.12.2)
+  - [1.16.5](https://howoldisminecraft.today/1.16.5)
  - [Enchant Order](https://iamcal.github.io/enchant-order/)
  - [Optfine Alternatives](https://optifine.alternatives.lambdaurora.dev/)
