@@ -12,5 +12,8 @@ some cool things I found:
   - [1.12.2](https://howoldisminecraft.today/1.12.2)
   - [1.16.5](https://howoldisminecraft.today/1.16.5)
   - [1.17.1](https://howoldisminecraft.today/1.17.1)
+ - [1.20.4](https://howoldisminecraft.today/1.20.4)
+ - [1.21.1](https://howoldisminecraft.today/1.21.1)
+ - [1.21.4](https://howoldisminecraft.today/1.21.4)
  - [Enchant Order](https://iamcal.github.io/enchant-order/)
  - [Optfine Alternatives](https://optifine.alternatives.lambdaurora.dev/)
